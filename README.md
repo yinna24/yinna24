@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @yinna24
 - 👀 I’m interested in web development & IT 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on web application projects
+
 - 📫 How to reach me (enyinna_anyanwu@yahoo.com)
 
 <!---
