@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yinna24
-- 👀 I’m interested in web development & IT 
+- 👀 I’m interested in software development & IT 
 
 - 📫 How to reach me (enyinna_anyanwu@yahoo.com)
 
