@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Enyinna
-- 👀 I’m interested in software development & IT 
-
+- 👀 I’m interested in software/web development & IT 
+- I primarily work with Python and Django but I am also familiar with other languages
 - 📫 How to reach me (enyinna_anyanwu@yahoo.com)
 
 <!---
