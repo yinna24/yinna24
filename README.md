@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yinna24
+- 👋 Hi, I’m Enyinna
 - 👀 I’m interested in software development & IT 
 
 - 📫 How to reach me (enyinna_anyanwu@yahoo.com)
